@@ -1,0 +1,16 @@
+Your identification has been saved in /c/Users/Dead Man Talking/.ssh/id_ed25519
+Your public key has been saved in /c/Users/Dead Man Talking/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:GIE4eCX41pTfBoA5prmITSCU6pHCYEtxCkDRaK1Lnis 98542310+EonHorizons@users.noreply.github.com
+The key's randomart image is:
++--[ED25519 256]--+
+|*BO*o+.          |
+|B*@++ ..         |
+|OO+= ..o         |
+|=B+ . .oo        |
+|B=+   ..S        |
+|+=.              |
+|  .              |
+|E.               |
+|.                |
++----[SHA256]-----+
